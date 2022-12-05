@@ -1,0 +1,161 @@
+Added Component: Designator=BTN1(Button)
+Added Component: Designator=BTN2(Button)
+Added Component: Designator=C1(CP1/2.5)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CP1/2.5)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SS34)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=F1(FUSE SMD)
+Added Component: Designator=J1(61301611821)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/61301611821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Socket Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61301611821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "May 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=P1(DOMINO 2- 5mm)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(JP3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "22K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(QTO-220)
+Added Component: Designator=U2(PDIP600-P40)
+Add component (AddParameter): Name = "ComponentAvailability"; Value = "Unknown. Contact manufacturer to determine status."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revB, Oct-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "40-Lead Plastic Dual In-Line (P) - 600 mil Body [PDIP]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PDIP600-P40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PIC16F877A-I/P"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(Varistor 1)
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Component: Designator=VR2(Varistor 1)
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(XT2)
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=5V Pin=J1-2
+Added Pin To Net: NetName=5V Pin=J1-15
+Added Pin To Net: NetName=5V Pin=P2-1
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=5V Pin=R5-2
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Pin To Net: NetName=5V Pin=U2-11
+Added Pin To Net: NetName=5V Pin=U2-32
+Added Pin To Net: NetName=5V Pin=VR1-1
+Added Net: Name=5V
+Added Pin To Net: NetName=BTN_1 Pin=BTN2-2
+Added Pin To Net: NetName=BTN_1 Pin=R5-1
+Added Pin To Net: NetName=BTN_1 Pin=U2-33
+Added Net: Name=BTN_1
+Added Pin To Net: NetName=CURENT_SENSOR Pin=P2-2
+Added Pin To Net: NetName=CURENT_SENSOR Pin=U2-3
+Added Net: Name=CURENT_SENSOR
+Added Pin To Net: NetName=D4 Pin=J1-11
+Added Pin To Net: NetName=D4 Pin=U2-27
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=J1-12
+Added Pin To Net: NetName=D5 Pin=U2-28
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=J1-13
+Added Pin To Net: NetName=D6 Pin=U2-29
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=J1-14
+Added Pin To Net: NetName=D7 Pin=U2-30
+Added Net: Name=D7
+Added Pin To Net: NetName=EN Pin=J1-6
+Added Pin To Net: NetName=EN Pin=U2-35
+Added Net: Name=EN
+Added Pin To Net: NetName=GND Pin=BTN1-1
+Added Pin To Net: NetName=GND Pin=BTN2-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Pin To Net: NetName=GND Pin=VR2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=INPUT_VOLTAGE Pin=R3-1
+Added Pin To Net: NetName=INPUT_VOLTAGE Pin=R4-2
+Added Pin To Net: NetName=INPUT_VOLTAGE Pin=U2-5
+Added Net: Name=INPUT_VOLTAGE
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=P1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=VR1-2
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=VR2-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=OSC1 Pin=C3-2
+Added Pin To Net: NetName=OSC1 Pin=U2-13
+Added Pin To Net: NetName=OSC1 Pin=Y1-2
+Added Net: Name=OSC1
+Added Pin To Net: NetName=OSC2 Pin=C4-2
+Added Pin To Net: NetName=OSC2 Pin=U2-14
+Added Pin To Net: NetName=OSC2 Pin=Y1-1
+Added Net: Name=OSC2
+Added Pin To Net: NetName=RS Pin=J1-4
+Added Pin To Net: NetName=RS Pin=U2-37
+Added Net: Name=RS
+Added Pin To Net: NetName=RST Pin=BTN1-2
+Added Pin To Net: NetName=RST Pin=R1-1
+Added Pin To Net: NetName=RST Pin=U2-1
+Added Net: Name=RST
+Added Pin To Net: NetName=RW Pin=J1-5
+Added Pin To Net: NetName=RW Pin=U2-36
+Added Net: Name=RW
+Added Pin To Net: NetName=VIN Pin=C1-1
+Added Pin To Net: NetName=VIN Pin=F1-2
+Added Pin To Net: NetName=VIN Pin=U1-1
+Added Pin To Net: NetName=VIN Pin=VR2-1
+Added Net: Name=VIN
+Added Class: Name=Volt_Metter_SCH
+Added Room: Name=Volt_Metter_SCH
